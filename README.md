@@ -14,4 +14,4 @@ This is a web-based project for a Smart Waste Sorting system. It explains how to
 * CSS3
 
 ##  Live Demo
-[]
+[ https://shaikh2695.github.io/Smart-Waste-Sorting-Project/]
